@@ -1,7 +1,6 @@
 - 👋 Hi There, My name is Babli Danu.
 - 👀 I’m interested in Web Development.
 - SKILLS :
- - Programming Languages :
   Java , Python , JavaScript , HTML / CSS
   - Frameworks and Library :
   React , Tailwind
