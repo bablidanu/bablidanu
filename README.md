@@ -7,6 +7,6 @@
 
   - Contact :
     - linked in : www.linkedin.com/in/babli-danu-3846642bb
-    - Instagram : https://www.instagram.com/probablybubbly
+  
     - E-mail : bablidanu05@gmail.com
 
