@@ -5,7 +5,7 @@
   * **Frameworks and Library** :
    + React , Tailwind CSS
 
-  - **Find Me** :
+* **Find Me** :
     - **linked in** : www.linkedin.com/in/babli-danu-3846642bb
     - **E-mail** : bablidanu05@gmail.com
 
