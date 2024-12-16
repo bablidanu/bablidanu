@@ -6,6 +6,5 @@
 
 * **Find Me** :
     - **linked in** : www.linkedin.com/in/babli-danu
-    - 
     - **E-mail** : bablidanu05@gmail.com
 
