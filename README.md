@@ -1,6 +1,6 @@
 ## Hi, My name is Babli Danu✨ </br>
 🧠 MCA student at Amity University Online </br>
-🤖 I am interested in Artificial Intelligence and Web Development </br>
+🤖 I am interested in Machine Learning and Web Development </br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sometimesbubbly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/babli-danu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bablidanu03@gmail.com) 
